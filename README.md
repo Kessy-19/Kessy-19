@@ -2,7 +2,6 @@
 - 👀 I’m interested in codeing
 - 🌱 I’m currently learning html 
 - 💞️ I’m looking to collaborate on any ai projects
-- 📫 Dm me in insta @kalyan_rathod
 - ⚡ Fun fact: i am a beginner 
 
 <!---
